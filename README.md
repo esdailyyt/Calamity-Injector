@@ -1,5 +1,5 @@
 # Calamity-Injector
-A Lua Script injector for roblox
+A Lua Script injector for roblox made in C#
 
 Meant for only injecting scripts
 
